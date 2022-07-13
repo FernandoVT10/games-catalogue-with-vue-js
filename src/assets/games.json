@@ -1,0 +1,22 @@
+{
+  "games": [
+    {
+      "name": "Elden Ring",
+      "description": "elden ring",
+      "backgroundURL": "/assets/games/elden-ring/background.jpg",
+      "trailerURL": "/assets/games/elden-ring/trailer.webm"
+    },
+    {
+      "name": "Hollow Knight",
+      "description": "hollow knight",
+      "backgroundURL": "/assets/games/hollow-knight/background.webp",
+      "trailerURL": "/assets/games/hollow-knight/trailer.webm"
+    },
+    {
+      "name": "Celeste",
+      "description": "celeste",
+      "backgroundURL": "/assets/games/celeste/background.png",
+      "trailerURL": "/assets/games/celeste/trailer.webm"
+    }
+  ]
+}
